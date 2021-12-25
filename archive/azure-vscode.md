@@ -14,7 +14,7 @@ Linux is way better than Windows. Most of the [DevOps](https://www.p3r.one/what-
 
 Join us in this power Bootcamp 🙌
 
-Before you ask we would be providing certificates and digital swags to all those who can deploy the VM. Join the Chat on [LinkedIN](https://www.linkedin.com/events/useazureasyourpersonalcomputerf6824242363796471808/) or [Telegram](https://t.me/joinchat/FjVuSFMYZNBkMTM9) 
+Before you ask we would be providing certificates and digital swags to all those who can deploy the VM. Join the Chat on [LinkedIN](https://www.linkedin.com/events/useazureasyourpersonalcomputerf6824242363796471808/) 
 
 ---
 
@@ -45,7 +45,7 @@ Key Type:
 
 # Summary
 1. 900 Registered Participants with more 4.9+ ratings on Exiting Feedback
-2. Recordings [here.](https://www.youtube.com/watch?v=YjgzByOr1Qk) 
+2. Recordings [here](https://youtu.be/nuk3Sinnc4g)
 
 Linkedin Event:
 
